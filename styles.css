@@ -82,7 +82,7 @@ h3 {
   opacity: 0.3;
 }
 
-ul {
+ul.lists {
   text-align: left;
   margin-left: 20%;
 }
