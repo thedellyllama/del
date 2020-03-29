@@ -54,6 +54,10 @@ h5 {
   letter-spacing: 3px;
 }
 
+h3 {
+  text-align: center;
+}
+
 .hr-light {
   border-top: 3px solid #fff;
   width: 80px;
@@ -76,4 +80,9 @@ h5 {
 
 .logo-style:hover {
   opacity: 0.3;
+}
+
+ul {
+  text-align: left;
+  margin-left: 20%;
 }
