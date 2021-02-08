@@ -83,6 +83,8 @@ h3 {
 }
 
 ul.lists {
-  text-align: left;
-  margin-left: 20%;
+  padding-left: 0;
+  list-style-position: inside;
+  text-align: center;
+ 
 }
